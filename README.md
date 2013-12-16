@@ -1,6 +1,3 @@
 compas
 ======
-bla bla bla
-blobloblo
-Mou
-Chaaaaaaaaaaaaaaaaaaaarier
+bla
